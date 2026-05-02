@@ -1,6 +1,6 @@
 # 🛡️ Meterpreter Mastery: Advanced Post-Exploitation Notes
 
-> **Author:** Sepka Rahmadhani  
+> **Author:** Sepka 
 > **Topic:** Cybersecurity - Metasploit Framework  
 > **Target OS:** Windows & Linux
 
